@@ -1,0 +1,49 @@
+{
+  "name": "Story Share",
+  "short_name": "StoryShare",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1dcd9f",
+  "icons": [
+    {
+      "src": "images/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tambah Cerita Baru",
+      "short_name": "Tambah Cerita",
+      "description": "Langsung ke halaman tambah cerita baru",
+      "url": "/#/add-story",
+      "icons": [
+        {
+          "src": "images/logo-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "platform": "wide"
+    },
+    {
+      "src": "images/screenshot-mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "platform": "narrow"
+    }
+  ]
+}
