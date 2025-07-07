@@ -82,7 +82,7 @@ TheFinal_v2/
 
 1. Clone repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/topfreak/frontend-intermediate.git
    cd TheFinal_v2
    ```
 
@@ -297,7 +297,7 @@ Proyek ini dibuat untuk keperluan edukasi dan portfolio.
 **Taufiq Hidayatullah**
 - Universitas: Universitas Amikom Yogyakarta
 - Program Studi: S1-Informatika
-- Email: [email-placeholder]
+- Email: topik.id.x@gmail.com
 
 ## 🙏 Acknowledgments
 
